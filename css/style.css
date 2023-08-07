@@ -1,0 +1,8 @@
+.form-project,
+.output {
+  background-color: #eee
+}
+
+tr:nth-child(even) {
+  background-color: #9c999957;
+}
